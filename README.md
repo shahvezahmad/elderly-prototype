@@ -1,6 +1,6 @@
 # Elderly Care System
 ## ABOUT:
-As we know , many elders face problems of travelling and find it hard to visit doctors regularly. they usually avoid mild symptoms because they dont want to travel
+As we know , many elders face problem of travelling and find it hard to visit doctor regularly. they usually avoid mild symptoms because they dont want to travel
 which in future causes severe problems.
 
 I created a web application using HTML5, CSS3, PHP and MySQL .It solves travelling issues for elders and they can do their regular checkups and get medications
